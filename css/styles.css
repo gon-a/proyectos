@@ -27,13 +27,13 @@ padding-top: 10px;
 background-color:rgb(59, 67, 73);
 color: white;
 }
-steve_padd{
+.steve_padd{
 padding-left: 10px;
 }
-ada_padd{
+.ada_padd{
     padding-right: 10px;
 }
-formul_marg{
+.formul_marg{
 margin-bottom: 20px;
 }
 
