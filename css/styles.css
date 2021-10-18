@@ -1,0 +1,44 @@
+.logo{
+    display: block;
+    max-width: 8%;
+    height: auto;
+}
+.nav_padding{
+padding:0px 5px 0px 5px;
+}
+.img_ba{
+    filter: brightness(50%);
+    width: auto;
+    height: 540px;
+}
+.card_padding{
+padding: 20% 5% 10% 50%
+}
+.card_img{
+height: 400px;
+width: 400pxpx;
+}
+.card_img2{
+    height: 100%;
+    width: 100%;
+    }
+.card_txt{
+padding-top: 10px;
+background-color:rgb(59, 67, 73);
+color: white;
+}
+steve_padd{
+padding-left: 10px;
+}
+ada_padd{
+    padding-right: 10px;
+}
+formul_marg{
+margin-bottom: 20px;
+}
+
+footer{
+color: white;
+background-color: blue;
+
+}
